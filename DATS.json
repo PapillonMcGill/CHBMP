@@ -102,7 +102,13 @@
       "value": "Neuroinformatics"
     },
     {
-      "value": "Open Science"
+			"information": {
+        "identifier": {
+          "identifier": "Open_science",
+          "identifierSource":"https://dbpedia.org/page/Category:Open_science"
+        },
+				"value": "open science"
+      }
     },
     {
       "value": "qEEG"
